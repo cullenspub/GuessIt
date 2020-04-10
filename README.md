@@ -3,7 +3,16 @@
 Kotlin programming in Android
 
 ## Things I learned doing this
-DataBinding, 
+DataBinding,  
+Model / View / ViewModel,  
+LifeCycle Aware Observable (aka LiveData),  
+LiveDate "Event",  
+Passing Data to ViewModel with ViewModelFactory,  
+Binding Expressions,  
+seLifecycleOwner,  
+ViewModel Transformations,  
+String Resource Quote format,  
+Haptics  
 
 ### Prerequisites
 N/A
@@ -36,4 +45,3 @@ Android Studio v3.6.2
 
 ## Acknowledgments
 * Udacity - https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
-
