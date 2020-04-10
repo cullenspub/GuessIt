@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen
+        name="normal">
+        36sp
+    </dimen>
+    <dimen
+        name="large">
+        46sp
+    </dimen>
+    <dimen
+        name="jumbo">
+        55sp
+    </dimen>
+</resources>
